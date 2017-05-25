@@ -44,8 +44,38 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                           <input type="submit" value="注册用户" name="submit"/>
                           <input type="reset" value="重置" name="reset"/>
                           <br>
-                            <div class="button" id="jump">
-                              <a id="jump-a" href="index.jsp">已有账户，去登录</a>
+                            <div class="button" id="jump" style="	background: rgb(247,249,250);
+                            	background: -moz-linear-gradient(top,  rgba(247,249,250,1) 0%, rgba(240,240,240,1) 100%);
+                            	background: -webkit-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
+                            	background: -o-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
+                            	background: -ms-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
+                            	background: linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
+                            	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f9fa', endColorstr='#f0f0f0',GradientType=0 );
+                            	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1) inset;
+                            	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1) inset;
+                            	-ms-box-shadow: 0 1px 2px rgba(0,0,0,0.1) inset;
+                            	-o-box-shadow: 0 1px 2px rgba(0,0,0,0.1) inset;
+                            	box-shadow: 0 1px 2px rgba(0,0,0,0.1) inset;
+                            	-webkit-border-radius: 0 0 5px 5px;
+                            	-moz-border-radius: 0 0 5px 5px;
+                            	-o-border-radius: 0 0 5px 5px;
+                            	-ms-border-radius: 0 0 5px 5px;
+                            	border-radius: 0 0 5px 5px;
+                            	border-top: 1px solid #CFD5D9;
+                            	padding: 15px 0;">
+                              <a id="jump-a" style="
+                              	background: url(images/8bcLQqF.png) 0 -112px no-repeat;
+                              	color: #7E7E7E;
+                              	font-size: 17px;
+                              	padding: 2px 0 2px 40px;
+                              	text-decoration: none;
+                              	-webkit-transition: all 0.3s ease;
+                              	-moz-transition: all 0.3s ease;
+                              	-ms-transition: all 0.3s ease;
+                              	-o-transition: all 0.3s ease;
+                              	transition: all 0.3s ease;
+                              " href="index.jsp">已有账户，去登录</a>
+
                             </div>
                           </form>
                         <%
