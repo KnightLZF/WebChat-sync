@@ -201,6 +201,7 @@ form:after {
 	border-radius: 0 0 5px 5px;
 	border-top: 1px solid #CFD5D9;
 	padding: 15px 0;
+  margin-bottom: 0px;
 }
 #jump-a {
 	background: url(images/8bcLQqF.png) 0 -112px no-repeat;
