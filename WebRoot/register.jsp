@@ -42,7 +42,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                             </tr>
                           </table>
                           <input type="submit" value="注册用户" name="submit"/>
-                          <input type="reset" value="重置" name="reset"/>
+                          <input type="reset" value="重置" id="button_reset" name="reset"/>
                           <br>
                             <div class="button">
                               <a href="index.jsp">已有账户，去登录</a>
