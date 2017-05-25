@@ -45,7 +45,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                           <input type="reset" value="重置" name="reset"/>
                           <br>
                             <div class="button" id="jump" >
-                              <span id="jump-a"><a href="index.jsp">已有账户，去登录</a></span>
+                              <a href="index.jsp">已有账户，去登录</a>
                             </div>
                           </form>
                         <%
