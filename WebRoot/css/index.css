@@ -172,7 +172,7 @@ form:after {
 	background: linear-gradient(top,  rgba(254,193,81,1) 0%,rgba(254,231,154,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fec151', endColorstr='#fee79a',GradientType=0 );
 }
-#content form input[type="reset"] {
+#button-reset {
 	background: rgb(254,231,154);
 	background: -moz-linear-gradient(top,  rgba(254,231,154,1) 0%, rgba(254,193,81,1) 100%);
 	background: -webkit-linear-gradient(top,  rgba(254,231,154,1) 0%,rgba(254,193,81,1) 100%);
@@ -201,7 +201,7 @@ form:after {
 	text-shadow: 0 1px 0 rgba(255,255,255,0.5);
 	width: 120px;
 }
-#content form input[type="reset"]:hover {
+#button-reset:hover {
 	background: rgb(254,193,81);
 	background: -moz-linear-gradient(top,  rgba(254,193,81,1) 0%, rgba(254,231,154,1) 100%);
 	background: -webkit-linear-gradient(top,  rgba(254,193,81,1) 0%,rgba(254,231,154,1) 100%);
