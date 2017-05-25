@@ -181,7 +181,7 @@ form:after {
     margin: 30px 15px 0 0;
     text-decoration: underline;
 }
-.button {
+#jump {
 	background: rgb(247,249,250);
 	background: -moz-linear-gradient(top,  rgba(247,249,250,1) 0%, rgba(240,240,240,1) 100%);
 	background: -webkit-linear-gradient(top,  rgba(247,249,250,1) 0%,rgba(240,240,240,1) 100%);
@@ -202,7 +202,7 @@ form:after {
 	border-top: 1px solid #CFD5D9;
 	padding: 15px 0;
 }
-.button a {
+#jump a {
 	background: url(images/8bcLQqF.png) 0 -112px no-repeat;
 	color: #7E7E7E;
 	font-size: 17px;
@@ -214,4 +214,5 @@ form:after {
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
+
 /* CSS Document */
