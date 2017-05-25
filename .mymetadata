@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="WebChat"
+  name="WebChat-sync"
   id="myeclipse.1495516816037"
   context-root="/WebChat"
   j2ee-spec="5.0"
-  archive="WebChat.war">
+  archive="WebChat-sync.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
